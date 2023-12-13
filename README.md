@@ -1,5 +1,10 @@
-**[Click here](https://raw.githubusercontent.com/ImStillJohnny/swastika_detection/main/usernames.txt)** If you just want the list of names to block (I recommend this for most people unless you are a dev who knows how to work with detection models)
+This project is now out of date and should no longer be used!
 
+It was initially created as an example for this thread: https://twitter.com/ImStillJohnny/status/1429936797992292356
+
+&nbsp;
+
+&nbsp;
 
 This is a custom neural net trained detection model using YOLOv3.  It is used to detect swastikas within images.  The original intention was to scan profile photos uploaded to Twitch so the users could be preemptively banned.  But it could be used for any other similar type of scans.
 
